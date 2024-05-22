@@ -1,0 +1,37 @@
+Table 1
+bill_id,date,chamber,sequence,action
+1799842,2024-01-08,House,1,Filed for introduction
+1799842,2024-01-09,House,2,"Intro., P1C."
+1799842,2024-01-10,House,3,"P2C, ref. to State Government Committee - Government Operations for Review"
+1799842,2024-01-10,House,4,Assigned to s/c Departments & Agencies Subcommittee
+1799842,2024-01-31,House,5,Placed on s/c cal Departments & Agencies Subcommittee for 2/7/2024
+1799842,2024-02-06,House,6,Sponsor(s) Added.
+1799842,2024-02-07,House,7,Taken off notice for cal in s/c Departments & Agencies Subcommittee of State Government Committee
+1799842,2024-02-21,House,8,Placed on s/c cal Departments & Agencies Subcommittee for 2/28/2024
+1799842,2024-02-28,House,9,Rec for pass if am by s/c ref. to State Government Committee
+1799842,2024-02-28,House,10,Placed on cal. State Government Committee for 3/6/2024
+1799842,2024-03-06,House,11,Action def. in State Government Committee to 3/13/2024
+1799842,2024-03-06,House,12,Placed on cal. State Government Committee for 3/13/2024
+1799842,2024-03-13,House,13,"Rec. for pass. if am., ref. to Government Operations Committee"
+1799842,2024-03-13,House,14,Placed on cal. Government Operations Committee for 3/18/2024
+1799842,2024-03-18,House,15,Action def. in Government Operations Committee to 3/25/2024
+1799842,2024-03-20,House,16,Placed on cal. Government Operations Committee for 3/25/2024
+1799842,2024-03-25,House,17,Taken off notice for cal. in Government Operations Committee
+1832117,2024-01-30,House,1,Filed for introduction
+1832117,2024-01-31,House,2,"Intro., P1C."
+1832117,2024-02-01,House,3,"P2C, ref. to Education Administration"
+1832117,2024-02-06,House,4,Assigned to s/c K-12 Subcommittee
+1832119,2024-01-30,House,1,Filed for introduction
+1832119,2024-01-31,House,2,"Intro., P1C."
+1832119,2024-02-01,House,3,"P2C, ref. to Local Government Committee"
+1832119,2024-02-06,House,4,Assigned to s/c Elections & Campaign Finance Subcommittee
+1832119,2024-02-14,House,5,Placed on s/c cal Elections & Campaign Finance Subcommittee for 2/21/2024
+1832119,2024-02-21,House,6,Action Def. in s/c Elections & Campaign Finance Subcommittee to 2/28/2024
+1832119,2024-02-21,House,7,Placed on s/c cal Elections & Campaign Finance Subcommittee for 2/28/2024
+1832119,2024-02-28,House,8,Action Def. in s/c Elections & Campaign Finance Subcommittee to 3/6/2024
+1832119,2024-02-28,House,9,Placed on s/c cal Elections & Campaign Finance Subcommittee for 3/6/2024
+1832119,2024-03-06,House,10,Failed in s/c Elections & Campaign Finance Subcommittee of Local Government Committee
+1833901,2024-01-31,House,1,Filed for introduction
+1833901,2024-02-01,House,2,"Intro., P1C."
+1833901,2024-02-05,House,3,"P2C, ref. to State Government Committee"
+1833901,2024-02-07,House,4,Assigned to s/c Departments & Agencies Subcommittee
