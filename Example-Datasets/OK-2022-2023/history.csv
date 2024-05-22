@@ -1,0 +1,148 @@
+bill_id,date,chamber,sequence,action
+10001,2022-02-07T00:00:00Z,House,1,First Reading
+10001,2022-02-07T00:00:00Z,House,2,Authored by Representative Stark
+10001,2022-02-08T00:00:00Z,House,3,Second Reading referred to Rules
+10002,2022-02-07T00:00:00Z,House,1,First Reading
+10002,2022-02-07T00:00:00Z,House,2,Authored by Representative Conley
+10002,2022-02-08T00:00:00Z,House,3,Second Reading referred to County and Municipal Government
+10002,2022-02-28T00:00:00Z,House,4,CR; Do Pass County and Municipal Government Committee
+10002,2022-02-28T00:00:00Z,House,5,Coauthored by Representative(s) CrosswhiteHader
+10002,2022-02-28T00:00:00Z,House,6,Authored by Senator Bergstrom (principal Senate author)
+10002,2022-03-14T00:00:00Z,House,7,General Order
+10002,2022-03-14T00:00:00Z,House,8,"Coauthored by Representative(s) Stearman, Randleman, McDugle"
+10002,2022-03-14T00:00:00Z,House,9,Amended
+10002,2022-03-14T00:00:00Z,House,10,"Third Reading, Measure passed: Ayes: 81 Nays: 13"
+10002,2022-03-14T00:00:00Z,House,11,Referred for engrossment
+10002,2022-03-15T00:00:00Z,House,12,"Engrossed, signed, to Senate"
+10002,2022-03-15T00:00:00Z,Senate,13,First Reading
+10002,2022-03-24T00:00:00Z,Senate,14,Second Reading referred to Education
+10002,2022-04-12T00:00:00Z,Senate,15,Reported Do Pass Education committee; CR filed
+10003,2022-02-07T00:00:00Z,House,1,First Reading
+10003,2022-02-07T00:00:00Z,House,2,Authored by Representative Hasenbeck
+10003,2022-02-08T00:00:00Z,House,3,Second Reading referred to Rules
+10004,2022-02-07T00:00:00Z,House,1,First Reading
+10004,2022-02-07T00:00:00Z,House,2,Authored by Representative Hasenbeck
+10004,2022-02-08T00:00:00Z,House,3,Second Reading referred to Rules
+10005,2022-02-07T00:00:00Z,House,1,First Reading
+10005,2022-02-07T00:00:00Z,House,2,Authored by Representative Hasenbeck
+10005,2022-02-08T00:00:00Z,House,3,Second Reading referred to Rules
+10006,2022-02-07T00:00:00Z,Senate,1,First Reading
+10006,2022-02-07T00:00:00Z,Senate,2,Authored by Senator Matthews
+10006,2022-02-07T00:00:00Z,Senate,3,Coauthored by Senator Rader
+10006,2022-02-08T00:00:00Z,Senate,4,Second Reading referred to Education
+10006,2022-02-14T00:00:00Z,Senate,5,Coauthored by Representative Nichols (principal House author)
+10007,2023-02-06T00:00:00Z,House,1,First Reading
+10007,2023-02-06T00:00:00Z,House,2,Authored by Representative McCall
+10007,2023-02-07T00:00:00Z,House,3,Second Reading referred to Rules
+10008,2023-02-06T00:00:00Z,House,1,First Reading
+10008,2023-02-06T00:00:00Z,House,2,Authored by Representative McCall
+10008,2023-02-07T00:00:00Z,House,3,Second Reading referred to Rules
+10009,2023-02-06T00:00:00Z,House,1,First Reading
+10009,2023-02-06T00:00:00Z,House,2,Authored by Representative Conley
+10009,2023-02-07T00:00:00Z,House,3,Second Reading referred to Rules
+10010,2023-02-06T00:00:00Z,House,1,First Reading
+10010,2023-02-06T00:00:00Z,House,2,Authored by Representative Conley
+10010,2023-02-07T00:00:00Z,House,3,Second Reading referred to Rules
+10011,2023-02-06T00:00:00Z,House,1,First Reading
+10011,2023-02-06T00:00:00Z,House,2,Authored by Representative Conley
+10011,2023-02-07T00:00:00Z,House,3,Second Reading referred to Rules
+10012,2023-02-06T00:00:00Z,House,1,First Reading
+10012,2023-02-06T00:00:00Z,House,2,Authored by Representative McBride
+10012,2023-02-07T00:00:00Z,House,3,Second Reading referred to Rules
+10013,2023-02-06T00:00:00Z,Senate,1,First Reading
+10013,2023-02-06T00:00:00Z,Senate,2,Authored by Senator Seifried
+10013,2023-02-06T00:00:00Z,Senate,3,Coauthored by Representative McBride (principal House author)
+10013,2023-02-07T00:00:00Z,Senate,4,Second Reading referred to Education
+10013,2023-02-14T00:00:00Z,Senate,5,Reported Do Pass Education committee; CR filed
+10013,2023-03-09T00:00:00Z,Senate,6,"General Order, Considered"
+10013,2023-03-09T00:00:00Z,Senate,7,Measure and Emergency passed: Ayes: 45 Nays: 1
+10013,2023-03-09T00:00:00Z,Senate,8,Referred for engrossment
+10013,2023-03-13T00:00:00Z,Senate,9,Engrossed to House
+10013,2023-03-13T00:00:00Z,House,10,First Reading
+10013,2023-03-29T00:00:00Z,House,11,Second Reading referred to Appropriations and Budget
+10013,2023-03-29T00:00:00Z,House,12,Referred to Appropriations and Budget Education Subcommittee
+10013,2023-04-03T00:00:00Z,House,13,Recommendation to the full committee; Do Pass Appropriations and Budget Education Subcommittee
+10013,2023-04-17T00:00:00Z,House,14,"CR; Do Pass, amended by committee substitute Appropriations and Budget Committee"
+10013,2023-04-17T00:00:00Z,House,15,Coauthored by Representative(s) Hefner
+10013,2023-04-17T00:00:00Z,House,16,Title stricken
+10013,2023-04-17T00:00:00Z,House,17,Enacting clause stricken
+10013,2023-04-26T00:00:00Z,House,18,General Order
+10013,2023-04-26T00:00:00Z,House,19,"Coauthored by Representative(s) Alonso-Sandoval, Waldron"
+10013,2023-04-26T00:00:00Z,House,20,"Third Reading, Measure and Emergency passed: Ayes: 81 Nays: 0"
+10013,2023-04-26T00:00:00Z,House,21,Referred for engrossment
+10013,2023-04-27T00:00:00Z,House,22,"Engrossed, signed, to Senate"
+10013,2023-04-27T00:00:00Z,Senate,23,HAs read
+10013,2023-05-16T00:00:00Z,Senate,24,"HAs rejected, conference requested"
+10013,2023-05-17T00:00:00Z,Senate,25,"SCs named Seifried, Pugh, Green, Pemberton, Rader, Hicks"
+10013,2023-05-18T00:00:00Z,House,26,"Conference granted, naming GCCA"
+10013,2023-05-22T00:00:00Z,Senate,27,CCR read
+10013,2023-05-22T00:00:00Z,Senate,28,Title restored
+10013,2023-05-22T00:00:00Z,Senate,29,Enacting clause restored
+10013,2023-05-24T00:00:00Z,Senate,30,CCR adopted
+10013,2023-05-24T00:00:00Z,Senate,31,"Measure and Emergency passed, to House: Ayes: 44 Nays: 0"
+10013,2023-05-24T00:00:00Z,Senate,32,Remove as coauthor Representative(s) Hefner
+10013,2023-05-24T00:00:00Z,Senate,33,Remove as coauthor Representative(s) Waldron
+10013,2023-05-24T00:00:00Z,Senate,34,Remove as coauthor Representative(s) Alonso-Sandoval
+10013,2023-05-24T00:00:00Z,House,35,CCR submitted
+10013,2023-05-25T00:00:00Z,House,36,CCR adopted
+10013,2023-05-25T00:00:00Z,House,37,Remove Representative McBride as principal House author and substitute with Representative West (Tammy)
+10013,2023-05-25T00:00:00Z,House,38,"Coauthored by Representative(s) McBride, Moore"
+10013,2023-05-25T00:00:00Z,House,39,"Fourth Reading, Measure and Emergency Passed: Ayes: 96 Nays: 0"
+10013,2023-05-25T00:00:00Z,House,40,To Senate
+10013,2023-05-25T00:00:00Z,Senate,41,Referred for enrollment
+10013,2023-05-25T00:00:00Z,Senate,42,"Enrolled, to House"
+10013,2023-05-25T00:00:00Z,House,43,"Signed, returned to Senate"
+10013,2023-05-25T00:00:00Z,Senate,44,Sent to Governor
+10013,2023-06-09T00:00:00Z,Senate,45,Approved by Governor 06/09/2023
+10014,2023-02-06T00:00:00Z,House,1,First Reading
+10014,2023-02-06T00:00:00Z,House,2,Authored by Representative McBride
+10014,2023-02-07T00:00:00Z,House,3,Second Reading referred to Appropriations and Budget
+10014,2023-02-07T00:00:00Z,House,4,Referred to Appropriations and Budget Education Subcommittee
+10014,2023-02-13T00:00:00Z,House,5,Recommendation to the full committee; Do Pass Appropriations and Budget Education Subcommittee
+10015,2023-02-06T00:00:00Z,House,1,First Reading
+10015,2023-02-06T00:00:00Z,House,2,Authored by Representative Humphrey
+10015,2023-02-07T00:00:00Z,House,3,Second Reading referred to Rules
+10016,2023-02-06T00:00:00Z,Senate,1,First Reading
+10016,2023-02-06T00:00:00Z,Senate,2,Authored by Senator Hamilton
+10016,2023-02-07T00:00:00Z,Senate,3,Second Reading referred to Education
+10016,2023-02-13T00:00:00Z,Senate,4,Coauthored by Senator Burns
+10016,2023-02-21T00:00:00Z,Senate,5,"Reported Do Pass, amended by committee substitute Education committee; CR filed"
+10016,2023-02-21T00:00:00Z,Senate,6,Coauthored by Senator Jett
+10016,2023-02-21T00:00:00Z,Senate,7,Coauthored by Senator Bullard
+10016,2023-02-23T00:00:00Z,Senate,8,Coauthored by Representative Conley (principal House author)
+10016,2023-03-07T00:00:00Z,Senate,9,"General Order, Considered"
+10016,2023-03-07T00:00:00Z,Senate,10,Measure passed: Ayes: 35 Nays: 10
+10016,2023-03-07T00:00:00Z,Senate,11,Emergency passed: Ayes: 34 Nays: 11
+10016,2023-03-07T00:00:00Z,Senate,12,Referred for engrossment
+10016,2023-03-08T00:00:00Z,Senate,13,Engrossed to House
+10016,2023-03-08T00:00:00Z,House,14,First Reading
+10016,2023-03-29T00:00:00Z,House,15,Second Reading referred to Appropriations and Budget
+10016,2023-03-29T00:00:00Z,House,16,Referred to Appropriations and Budget Education Subcommittee
+10016,2023-04-17T00:00:00Z,House,17,Withdrawn from Appropriations and Budget Education Subcommittee
+10016,2023-04-17T00:00:00Z,House,18,"Withdrawn from Appropriations and Budget, Direct to Calendar"
+10016,2023-04-27T00:00:00Z,House,19,General Order
+10016,2023-04-27T00:00:00Z,House,20,"Coauthored by Representative(s) Hardin, Olsen, Gann, Humphrey, West (Rick), Maynard, Kane, Banning, CrosswhiteHader"
+10016,2023-04-27T00:00:00Z,House,21,House Rule suspended
+10016,2023-04-27T00:00:00Z,House,22,Amended
+10016,2023-04-27T00:00:00Z,House,23,"Third Reading, Measure and Emergency passed: Ayes: 69 Nays: 13"
+10016,2023-04-27T00:00:00Z,House,24,Referred for engrossment
+10016,2023-05-01T00:00:00Z,House,25,"Engrossed, signed, to Senate"
+10016,2023-05-01T00:00:00Z,Senate,26,HAs read
+10016,2023-05-01T00:00:00Z,Senate,27,"HAs rejected, conference requested"
+10016,2023-05-01T00:00:00Z,Senate,28,Coauthored by Representative Stark
+10016,2023-05-11T00:00:00Z,Senate,29,"SCs named Hamilton, Pugh, Seifried, Daniels, Dossett, Stewart, Woods"
+10016,2023-05-18T00:00:00Z,House,30,"Conference granted, naming GCCA"
+10016,2023-05-26T00:00:00Z,Senate,31,Died in conference
+10017,2023-02-06T00:00:00Z,Senate,1,First Reading
+10017,2023-02-06T00:00:00Z,Senate,2,Authored by Senator Matthews
+10017,2023-02-07T00:00:00Z,Senate,3,Second Reading referred to General Government
+10017,2023-02-09T00:00:00Z,Senate,4,Reported Do Pass as amended General Government committee; CR filed
+10017,2023-02-09T00:00:00Z,Senate,5,Coauthored by Representative Nichols (principal House author)
+10017,2023-02-13T00:00:00Z,Senate,6,Coauthored by Senator Boren
+10017,2023-02-21T00:00:00Z,Senate,7,"General Order, Considered"
+10017,2023-02-21T00:00:00Z,Senate,8,Measure and Emergency passed: Ayes: 44 Nays: 1
+10017,2023-02-21T00:00:00Z,Senate,9,Referred for engrossment
+10017,2023-02-22T00:00:00Z,Senate,10,Engrossed to House
+10017,2023-02-22T00:00:00Z,House,11,First Reading
+10017,2023-03-29T00:00:00Z,House,12,Second Reading referred to County and Municipal Government
+10017,2023-04-11T00:00:00Z,House,13,"CR; Do Pass, amended by committee substitute County and Municipal Government Committee"
