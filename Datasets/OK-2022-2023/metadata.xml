@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:xsd="https://schema.org/Legislation">
+
+	<dc:creator>McIntyre, Sophie</dc:creator>
+	<dc:contributor>University of Washington iSchool MLIS program</dc:contributor>
+	<dc:title>OK-2022-2023</dc:title>
+	<dc:source>OK</dc:source>
+	<dwc:datasetID>052824-ok2024-sdm</dwc:datasetID>
+	<dc:modified>2024-05-28</dc:modified>
+	<xsd:legislationIdentifier>https://github.com/sophiedmcintyre/Library-Bill-Tracking/tree/main/Datasets/OK-2022-2023</xsd:legislationIdentifier>
+	<dwc:description>Contains bills from 2022 to 2023 by the Oklahoma State Legislature</dwc:description>
+	<dwc:dateSubmitted>2024-05-28</dwc:dateSubmitted>
+
+</metadata>
