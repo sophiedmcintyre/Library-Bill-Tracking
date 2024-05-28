@@ -1,0 +1,19 @@
+Field*,Schema Mapping*,Expected Value or Range*,Definition,Required?,Repeatable?
+"This is the name of the field for ease of referring to it in documentation, communication, etc.","This field should represent where the field is mapped to in the metadata records in the application, system, or service. It should also be the field mapped to a shared standard, namespace, or specification. This helps clarify the understanding of what the field means, as well as facilitates mapping that field to other metadata and MAPs.","This is the expected metadata value for this field. Here you can specify data types (string, integer, datetime, etc.), specify value sources (controlled vocabularies, authorities, free-text entry, other), and any other specifications around the expected metadata (is identifier for an Agent resource; is a date following EDTF; is a Cornell email address; etc.)",This is the definition for the field. This is helpful if it doesn't map (or doesn't map entirely) to a Namespaced Mapping or a Standard.,TRUE/FALSE,TRUE/FALSE
+bill_number,DDI Identifier,"string, free-text entry",The identifier assigned to the bill by the house of government in which it was proposed.,TRUE,FALSE
+house_of_government,DDI Analysis Unit,"string, controlled vocabulary",The house of government in which the bill was introduced; either Senate or House.,TRUE,FALSE
+status_desc,DDI Lifecycle Event (maybe?),"string, free-text entry","A description of the current status of the bill (e.g. introduced, passed, vetoed).",TRUE,FALSE
+date_proposed,DCMI dateSubmitted,datetime,The date the bill was originally submitted to the house of government in which it was introduced.,TRUE,FALSE
+title,DCMI Title,"string, free-text entry",The title given to the bill by its sponsor(s).,TRUE,TRUE
+description,DCMI Description,"string, free-text entry",A description of the bill's content.,TRUE,TRUE
+last_action_date,DDI Simple Date,datetime,The date of the most recent action taken on the bill.,FALSE,FALSE
+last_action,DDI Lifecycle Event (maybe?),"string, free-text entry",The most recent action taken on the bill by the state government in which it was proposed.,FALSE,FALSE
+primary_sponsor_name,DDI Name,string,The name of the politician(s) who primarily sponsored the bill.,TRUE,TRUE
+primary_sponsor_party,DDI Organization,"string, controlled vocabulary",The political party to which the bill's primary sponsor belongs; from the ICPSR subject thesaurus.,TRUE,TRUE
+primary_sponsor_district,DDI Location,"string, free-text entry",The legislative district which the bill's primary sponsor represents. ,TRUE,TRUE
+url,DDI URL,"string, URI","The URL from which the bill data was initially collected, if different from the bill's URL on its state government website.",FALSE,FALSE
+state_link,DDI URL,"string, URI",The URL identifying the bill on the website of the state government by which it was introduced.,TRUE,FALSE
+date,DDI Simple Date,datetime,The date of a particular action taken on the bill.,TRUE,TRUE
+chamber,DDI Analysis Unit,"string, controlled vocabulary","The house of government in which the relevant action on the bill took place, either Senate or House.",TRUE,TRUE
+sequence,?????,integer,The order in which actions on a given bill were taken.,TRUE,TRUE
+action,DCMI Description,"string, free-text entry",An action taken on the bill by the state government in which it was proposed.,TRUE,TRUE
