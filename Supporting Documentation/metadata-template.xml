@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:xsd="https://schema.org/Legislation">
+
+	<dc:creator>CREATOR NAME</dc:creator>
+	<dc:contributor>INSTITUTE/ORGANIZATION</dc:contributor>
+	<dc:title>STATEABBREVIATION-BEGINYEAR-ENDYEAR</dc:title>
+	<dc:source>STATE ABBREVIATION</dc:source>
+	<dwc:datasetID>TO BE CREATED BY CURATORS</dwc:datasetID>
+	<dc:modified>YYYY-MM-DD</dc:modified>
+	<xsd:legislationIdentifier>GITHUB LINK TO BE CREATED BY CURATORS</xsd:legislationIdentifier>
+	<dwc:description>BRIEF DESCRIPTION</dwc:description>
+	<dwc:dateSubmitted>YYYY-MM-DD</dwc:dateSubmitted>
+
+</metadata>
